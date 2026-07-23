@@ -1,0 +1,1 @@
+export const formatQuery = (query: string) => query;
